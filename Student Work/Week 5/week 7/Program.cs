@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace Week02
+namespace week_7
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Create variables and do things with them!
-            
+            Console.WriteLine("Hello World!");
         }
     }
 }
